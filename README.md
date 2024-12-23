@@ -49,21 +49,21 @@ However, the remaining flip-flops should be made ready to toggle only when all l
 
  UP COUNTER
    
-   module ex11(out,clk,rst);
+     module ex11(out,clk,rst);
    
-   input clk,rst;
+     input clk,rst;
    
-   output reg [3:0]out;
+     output reg [3:0]out;
    
-   always @ (posedge clk)
+     always @ (posedge clk)
    
-   begin
+     begin
    
-   if(rst)
+     if(rst)
    
      out<=0;
    
-   else 
+    else 
    
      out <= out+1;
    
