@@ -83,7 +83,7 @@ RegisterNumber:24002206
 ![rtl](https://github.com/user-attachments/assets/bf9764c3-ea26-4e3e-8477-1f31e6af85a0)
 
 
-**TIMING DIAGRAM FOR IP COUNTER**
+**TIMING DIAGRAM FOR UP COUNTER**
 
 ![waveform](https://github.com/user-attachments/assets/827dad48-7a73-4352-b308-a3b246eb180e)
 
